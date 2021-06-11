@@ -1,0 +1,10 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CS065SlotMachine\CS065SlotMachine\bin\Debug\CS065SlotMachine.exe.config
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CS065SlotMachine\CS065SlotMachine\bin\Debug\CS065SlotMachine.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CS065SlotMachine\CS065SlotMachine\bin\Debug\CS065SlotMachine.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CS065SlotMachine\CS065SlotMachine\obj\Debug\CS065SlotMachine.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CS065SlotMachine\CS065SlotMachine\obj\Debug\CS065SlotMachine.SlotMachineForm.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CS065SlotMachine\CS065SlotMachine\obj\Debug\CS065SlotMachine.Properties.Resources.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CS065SlotMachine\CS065SlotMachine\obj\Debug\CS065SlotMachine.csproj.GenerateResource.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CS065SlotMachine\CS065SlotMachine\obj\Debug\CS065SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CS065SlotMachine\CS065SlotMachine\obj\Debug\CS065SlotMachine.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CS065SlotMachine\CS065SlotMachine\obj\Debug\CS065SlotMachine.pdb
